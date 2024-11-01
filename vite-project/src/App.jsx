@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <p>
-        Yes!
+        If you see this message, it means you can run code!
       </p>
     </>
   )
