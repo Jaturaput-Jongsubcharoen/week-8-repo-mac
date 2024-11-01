@@ -9,10 +9,7 @@ function App() {
   return (
     <>
       <p>
-        Hellooooooooooooooooooooo guys!
-      </p>
-      <p>
-        Hellooooooooooooooooooooo guys!
+        Yes!
       </p>
     </>
   )
